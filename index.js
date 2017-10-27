@@ -19,8 +19,8 @@ var newFacts = new Array()
   function iLoveTheBeatles(n) {
     var z = new Array()
     do {
-      n++
     z.push("I love the Beatles!")
+    n++
   } while(n < 15)
    return z
   }
