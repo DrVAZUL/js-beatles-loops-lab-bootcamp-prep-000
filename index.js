@@ -15,5 +15,3 @@ var newFacts = new Array()
   }
     return newFacts
   }
-
-
