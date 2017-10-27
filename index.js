@@ -15,3 +15,13 @@ var newFacts = new Array()
   }
     return newFacts
   }
+
+  function iLoveTheBeatles(n) {
+    var z = new Array()
+    do {
+    z.push("I love the Beatles!")
+  } while(n < 15) {
+    z.push("I love the Beatles")
+    n++
+  } return z
+  }
